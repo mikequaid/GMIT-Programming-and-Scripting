@@ -1,5 +1,5 @@
 # *GMIT-Programming and Scripting Module*
-# *Higher Diploma in Science in Computing in Data Analytics*
+# *Higher Diploma in Data Analytics*
 
 ![](outcomes.PNG)
 
