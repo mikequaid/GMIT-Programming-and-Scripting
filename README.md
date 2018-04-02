@@ -1,6 +1,6 @@
 # *GMIT-Programming and Scripting*
 
-
+![](outcomes.png)
 
 
 
