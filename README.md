@@ -1,4 +1,4 @@
-# GMIT-Programming and Scripting
+# *GMIT-Programming and Scripting*
 ## Exercise 1 and 2
   - Write a Python program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name,where the     letter is numbered
 
