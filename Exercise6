@@ -1,2 +1,22 @@
+# Mike Quaid 30032018
+# Exercise 6
+# script containing a function called factorial() that takes a single input/argument 
+# which is a positive integer and returns its factorial
+# test the function by calling it with the values 5, 7, and 10
 
+def factorial(n): # create a definition
+  x=1 # answer is a positive integer and starts at 1
+  while n>=1: # loop through the range of numbers (ie.keeps multiplying) when greater than 0
+    x=x*n # start multiplication with the n number
+    n=n-1 # reduce the n number each time it goes through the loop
+  return x # give result
+
+n=5
+print (factorial(n)) # print result of factorial 5
+
+n=7
+print (factorial(n))
+
+n=10
+print (factorial(n))
 
