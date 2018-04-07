@@ -17,7 +17,7 @@
   
 ## Exercise 5
   - Write a Python script that reads the [Iris data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns
-  - The data set is included is this [repository](iris.txt)
+  - The data set is included is this [file.](iris.txt)
 
 ## Exercise 6
   - Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10.
